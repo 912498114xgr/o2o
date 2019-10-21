@@ -5,7 +5,6 @@ import java.util.Date;
 /**
  * 商品详情图实体类
  * 
- * @author xiangze
  *
  */
 public class ProductImg {
